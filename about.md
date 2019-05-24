@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my page!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love working on interesting problems with good people. Ideally, solving those problems help to make the world a better place. 
+If that's what you do, I'd love to talk to you about what you're doing. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[eric.boersma@gmail.com](mailto:eric.boersma@gmail.com)
