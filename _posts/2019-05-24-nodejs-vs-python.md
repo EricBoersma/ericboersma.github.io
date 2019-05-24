@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparing Node JS and Python for Beginner webapps
+title: Comparing Node JS and Python for Beginners
 ---
 
 I took a deep dive recently into NodeJS and Python for someone writing their first webapp.
