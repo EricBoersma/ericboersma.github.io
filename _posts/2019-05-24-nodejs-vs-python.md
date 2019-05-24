@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Comparing Node JS and Python for Beginner webapps
