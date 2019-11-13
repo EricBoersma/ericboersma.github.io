@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software Security Anti-Patterns
+title: Writing SQL-style Where queries in C#
 ---
 
 I really enjoy working in C#, and one of my favorite features is their support for Where-style queries directly in code, through LINQ.
