@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Continuous Deployment: How It Fits in Your Delivery
+title: How Continuous Deployment fits in your delivery
 ---
 
 It's a bonus post this week, as I also approached the topic of how to fit Continuous Deployment into
