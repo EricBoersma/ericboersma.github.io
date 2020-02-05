@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Memory Leaks: How to find, eliminate, and avoid
+title: Memory Leaks - How to find, eliminate, and avoid
 ---
 
 Memory leaks are one of the most common pain points which degrade software user experience. 
